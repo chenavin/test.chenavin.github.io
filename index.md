@@ -29,9 +29,3 @@ To get started with creating a site, just click "[use this template]"!
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
----
-title: Pub
-layout: Publay
----
-
-bla bla
