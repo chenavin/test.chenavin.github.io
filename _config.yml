@@ -2,7 +2,7 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://chenavin.github.io/poole
+url: https://chenavin.github.io
 
 aux_links:
-  Template Repository: https://github.com/chenavin/poole
+  Template Repository: https://github.com/chenavin
